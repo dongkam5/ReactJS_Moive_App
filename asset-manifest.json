@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReactJS_Moive_App/static/css/main.6e8a6f74.css",
+    "main.css": "/ReactJS_Moive_App/static/css/main.8bcdc3d0.css",
     "main.js": "/ReactJS_Moive_App/static/js/main.a885fb20.js",
     "index.html": "/ReactJS_Moive_App/index.html",
-    "main.6e8a6f74.css.map": "/ReactJS_Moive_App/static/css/main.6e8a6f74.css.map",
+    "main.8bcdc3d0.css.map": "/ReactJS_Moive_App/static/css/main.8bcdc3d0.css.map",
     "main.a885fb20.js.map": "/ReactJS_Moive_App/static/js/main.a885fb20.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e8a6f74.css",
+    "static/css/main.8bcdc3d0.css",
     "static/js/main.a885fb20.js"
   ]
 }
